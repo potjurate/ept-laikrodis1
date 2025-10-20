@@ -6,7 +6,7 @@
   <title>EPT — Laikrodis</title>
   <style>
     body {
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      font-family: system-ui, -apple-system, "Segoe UI", Jurate Pasvenske EPT, "Helvetica Neue", Arial;
       display:flex;
       align-items:center;
       justify-content:center;
@@ -41,8 +41,8 @@
     <h1>EPT — demonstracinis puslapis</h1>
 
     <div class="meta">
-      <div><b>Vardas:</b> ChatGPT</div>
-      <div><b>Pavardė:</b> Assistant</div>
+      <div><b>Vardas:</b> Jurate</div>
+      <div><b>Pavardė:</b> Pasvenske</div>
       <div><b>Dalykas:</b> EPT</div>
       <div><b>Data:</b> <span id="current-date">2025-10-20</span></div>
     </div>
@@ -221,4 +221,5 @@
     setInterval(drawClock, 1000);
   </script>
 </body>
+
 </html>
